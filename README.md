@@ -1,3 +1,3 @@
-# React/ES6/Gulp boilerplate project
+# React Rollball
 
-### For quickly getting React/ES6 project up and running.
+### A game built with React
