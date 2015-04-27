@@ -1,3 +1,3 @@
 # React Rollball
 
-### A game built with React
+### A game built with React.
